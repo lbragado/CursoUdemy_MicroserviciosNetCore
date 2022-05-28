@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Microservices", "WebAPI_Microservices\WebAPI_Microservices.csproj", "{EC4ED6F1-0BE8-42A5-BA02-07C575AE1019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4ED6F1-0BE8-42A5-BA02-07C575AE1019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4ED6F1-0BE8-42A5-BA02-07C575AE1019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4ED6F1-0BE8-42A5-BA02-07C575AE1019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4ED6F1-0BE8-42A5-BA02-07C575AE1019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB90F359-E515-43A4-8F95-50EAAD788182}
+	EndGlobalSection
+EndGlobal
